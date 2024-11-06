@@ -1,7 +1,7 @@
 import React, { useId } from "react";
 
 import AboutMeContent from "./AboutMeContent";
-import Data from "../../Data.json";
+import Data from "../../data.json";
 
 function AboutMe() {
   return (
