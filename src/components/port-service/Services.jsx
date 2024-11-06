@@ -1,6 +1,6 @@
 import React from "react";
 import Service from "./Service";
-import Data from "../../Data.json";
+import Data from "../../data.json";
 import { useId } from "react";
 function Services() {
   return (
