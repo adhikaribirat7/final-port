@@ -93,7 +93,7 @@ const Hero = () => {
           experiences for end-users.
         </p>
       </div>
-      
+
       <div className="h-1/2 top-1/2 absolute w-full">
         <Canvas className="touch-pan-y">
           <PerspectiveCamera

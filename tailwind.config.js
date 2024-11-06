@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      touchAction: {
+        'pan-y': 'pan-y', // Adds touch-pan-y as a utility
+      },
+    },
   },
   plugins: [],
 }
