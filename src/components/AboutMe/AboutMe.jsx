@@ -15,7 +15,7 @@ function AboutMe() {
             Hi, my name is Birat Adhikari, i am a Fullstack web developer, UI
             designer, and Mobile developer. I jhave honed my skills in Web
             Development and advance i have core understanding of advance UI
-            design principles. Here are the major skills i have.{" "}
+            design principles. Here are the major skills i have.
           </p>
           <p className="mt-10 text-white flex items-center gap-4">
             <span className="text-costume-color font-semibold text-8xl">

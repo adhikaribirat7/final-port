@@ -24,7 +24,7 @@ const HeroSection = () => {
           <span className="text-5xl font-semibold">HELLO, I'M</span>
           <span className="text-4xl font-semibold">Birat Adhikari</span>
           <span className="text-2xl font-semibold">
-            Freelance UI designer, Fullstack developer, & Data Miner. I create
+            Freelance UI designer, Fullstack developer. I create
             seamless web experiences for end-users.
           </span>
           <div className="flex lg:flex-row flex-col w-full justify-evenly gap-2 h-12">
