@@ -95,7 +95,7 @@ const Hero = () => {
       </div>
       
       <div className="h-1/2 top-1/2 absolute w-full">
-        <Canvas>
+        <Canvas className="touch-pan-y">
           <PerspectiveCamera
             makeDefault
             fov={35}
