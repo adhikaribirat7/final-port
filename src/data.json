@@ -1,0 +1,23 @@
+{
+  "service": [
+    {
+
+      "skill": "UX & UI",
+      "experience": 1,
+      "description": "I can create unique design for web apps and android/ios apps "
+    },
+    {
+
+      "skill": "Web Development",
+      "experience": 2,
+      "description": "I have the basic as well as advance knowledge of web development you can fell free to contact me "
+    },
+    {
+
+      "skill": "Android Development",
+      "experience": "6 months",
+      "description": "I have also woked as android developer for 6 monthe if you have any query you can contact me "
+    }
+  ],
+  "about-me":["Bsc(hons)computing", "Software Engineer", "Android Developer"]
+} 
